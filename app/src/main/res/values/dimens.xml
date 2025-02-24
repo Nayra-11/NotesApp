@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_16">16dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="size_24">24sp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="size_18">18sp</dimen>
+    <dimen name="size_14">14sp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="radius_15">15dp</dimen>
+</resources>
