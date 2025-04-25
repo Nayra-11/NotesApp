@@ -24,7 +24,7 @@ A clean, minimal, and fully functional Notes application built using Kotlin for 
 | ![Light Mode](app/src/main/res/drawable/light2.jpg) | ![Dark Mode](app/src/main/res/drawable/dark2.jpg) |
 | ![Light Mode](app/src/main/res/drawable/light3.jpg) | ![Dark Mode](app/src/main/res/drawable/dark3.jpg) |
 
-> 💡 Place your screenshots inside a `screenshots/` folder in your root directory.
+
 
 ---
 
